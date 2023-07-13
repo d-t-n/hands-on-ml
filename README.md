@@ -22,10 +22,12 @@
     - Testing and Validating
     - Hyperparameter Tuning and Model Selection
     - Data Mismatch
-    - Exercises
 
         Notebook:
         - [The Machine Learning Landscape](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/01-The_ML_Landscape.ipynb)
+
+
+
 
 2. End-to-end Machine Learnng Project
     - Look at the big picture.
@@ -36,3 +38,6 @@
     - Fine-tune your model.
     - Present your solution.
     - Launch, monitor, and maintain your system.
+
+        Notebook:
+        - [End-to-end Machine Learnng Project](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/02-End_to_End_Machine_Learning_Project-.ipynb)

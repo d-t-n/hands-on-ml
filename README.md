@@ -30,14 +30,27 @@
 
 
 2. End-to-end Machine Learnng Project
-    - Look at the big picture.
-    - Get the data.
-    - Discover and visualize the data to gain insights.
-    - Prepare the data for Machine Learning algorithms.
-    - Select a model and train it.
-    - Fine-tune your model.
-    - Present your solution.
-    - Launch, monitor, and maintain your system.
+    - Look at the big picture
+    - Get the data
+    - Discover and visualize the data to gain insights
+    - Prepare the data for Machine Learning algorithms
+    - Select a model and train it
+    - Fine-tune your model
+    - Present your solution
+    - Launch, monitor, and maintain your system
 
         Notebook:
         - [End-to-end Machine Learnng Project](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/02-End_to_End_Machine_Learning_Project-.ipynb)
+
+
+3. Classification
+    - MNIST
+    - Training a Binary Classifier
+    - Performance Measures
+    - Multiclass Classification
+    - Error Analysis
+    - Multilabel Classification
+    - Multioutput Classification
+
+        Notebook:
+        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/03-Classification.ipynb)

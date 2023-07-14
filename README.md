@@ -25,10 +25,9 @@
 
         Notebook:
         - [The Machine Learning Landscape](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/01-The_ML_Landscape.ipynb)
-
-
-
-
+<br />
+<br />
+<br /> 
 2. End-to-end Machine Learnng Project
     - Look at the big picture
     - Get the data
@@ -41,8 +40,9 @@
 
         Notebook:
         - [End-to-end Machine Learnng Project](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/02-End_to_End_Machine_Learning_Project-.ipynb)
-
-
+<br />
+<br />
+<br />
 3. Classification
     - MNIST
     - Training a Binary Classifier
@@ -54,3 +54,6 @@
 
         Notebook:
         - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/03-Classification.ipynb)
+<br />
+<br />
+<br />

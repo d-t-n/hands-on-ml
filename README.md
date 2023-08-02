@@ -57,3 +57,40 @@
 <br />
 <br />
 <br />
+4. Training Models
+    - Linear Regression
+    - Gradient Descent
+    - Polynomial Regression
+    - Learning Curves
+    - Regularized Linear Models
+    - Logistic Regression
+
+        Notebook:
+        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
+<br />
+<br />
+<br />
+5. Support Vector Machines
+    - Linear SVM Classification
+    - Nonlinear SVM Classification
+    - SVM Regression
+    - Under the Hood
+
+        Notebook:
+        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/05-Support_Vector_Machines.ipynb)
+<br />
+<br />
+<br />
+6. Decision Trees
+    - Training and Visualizing a Decision Tree
+    - Making Predictions
+    - Estimating Class Probabilities
+    - The CART Training Algorithm
+    - Computational Complexity
+    - Gini Impurity or Entropy?
+    - Regularization
+    - Regression
+    - Instability
+
+        Notebook:
+        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)

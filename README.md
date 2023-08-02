@@ -66,7 +66,7 @@
     - Logistic Regression
 
         Notebook:
-        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
+        - [Training Models](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
 <br />
 <br />
 <br />
@@ -77,7 +77,7 @@
     - Under the Hood
 
         Notebook:
-        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/05-Support_Vector_Machines.ipynb)
+        - [Support Vector Machines](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/05-Support_Vector_Machines.ipynb)
 <br />
 <br />
 <br />
@@ -93,4 +93,4 @@
     - Instability
 
         Notebook:
-        - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
+        - [Decision Trees](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)

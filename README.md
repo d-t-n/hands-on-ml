@@ -93,4 +93,4 @@
     - Instability
 
         Notebook:
-        - [Decision Trees](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
+        - [Decision Trees](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/06-Decision_Trees.ipynb)

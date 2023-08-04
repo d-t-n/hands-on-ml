@@ -94,3 +94,9 @@
 
         Notebook:
         - [Decision Trees](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/06-Decision_Trees.ipynb)
+<br />
+<br />
+<br />
+7. Ensemble Learning and Random Forests
+    - Voting Classifiers
+    - 

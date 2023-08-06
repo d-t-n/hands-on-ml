@@ -99,4 +99,11 @@
 <br />
 7. Ensemble Learning and Random Forests
     - Voting Classifiers
-    - 
+    - Bagging and Pasting
+    - Random Patches and Random Subspaces
+    - Random Forests
+    - Boosting
+    - Stacking
+
+        Notebook:
+        - [Ensemble Learning and Random Forests](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/06-Decision_Trees.ipynb)

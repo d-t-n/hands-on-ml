@@ -106,4 +106,4 @@
     - Stacking
 
         Notebook:
-        - [Ensemble Learning and Random Forests](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/06-Decision_Trees.ipynb)
+        - [Ensemble Learning and Random Forests](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/07-Ensemble_Models.ipynb)

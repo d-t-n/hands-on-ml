@@ -115,4 +115,12 @@
 
         Notebook:
         - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/08-Dimensionality_Reduction.ipynb)
+<br />
+<br />
+<br />
+9. Unsupervised Learning Techniques
+    - Clustering
+    - Gaussian Mixtures
 
+        Notebook:
+        - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/09-Unsupervised_Learning_Techniques.ipynb)

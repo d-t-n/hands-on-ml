@@ -124,3 +124,13 @@
 
         Notebook:
         - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/09-Unsupervised_Learning_Techniques.ipynb)
+<br />
+<br />
+<br />
+10. Introduction to Artificial Neural Networks with Keras
+    - From Biological to Artificial Neurons
+    - Implementing MLPs with Keras
+    - Fine-Tuning Neural Network Hyperparameters
+
+        Notebook:
+        - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/10-Introduction_to_Artificial_Neural_Networks.ipynb)

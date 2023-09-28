@@ -134,3 +134,14 @@
 
         Notebook:
         - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/10-Introduction_to_Artificial_Neural_Networks.ipynb)
+<br />
+<br />
+<br />
+11. Training Deep Neural Networks
+    - The Vanishing/Exploding Gradients Problems
+    - Reusing Pretrained Layers
+    - Faster Optimizers
+    - Avoiding Overfitting Through Regularization
+
+        Notebook:
+        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/11-Training_Deep_Neural_Networks.ipynb)

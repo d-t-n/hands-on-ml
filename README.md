@@ -145,3 +145,14 @@
 
         Notebook:
         - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/11-Training_Deep_Neural_Networks.ipynb)
+<br />
+<br />
+<br />
+12. Custom Models and Training with TensorFlow
+    - A quick tour of TensorFlow
+    - Using TensorFlow like Numpy
+    - Customizing Models and Training Algorithms
+    - TensorFlow Functions and Graphs
+
+        Notebook:
+        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/12-Custom_Models_and_TF.ipynb)

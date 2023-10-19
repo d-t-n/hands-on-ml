@@ -156,3 +156,14 @@
 
         Notebook:
         - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/12-Custom_Models_and_TF.ipynb)
+<br />
+<br />
+<br />
+13. Loading and Prepocessing Data with TensorFlow
+    - The Data API
+    - The TFRcord Format
+    - Preprocessing the TF Transform
+    - TensorFlow Dataset (TFDS) Project
+
+        Notebook:
+        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/13-Loading_and_Prepocessing_Data_with_TF.ipynb)

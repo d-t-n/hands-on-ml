@@ -167,3 +167,20 @@
 
         Notebook:
         - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/13-Loading_and_Prepocessing_Data_with_TF.ipynb)
+<br />
+<br />
+<br />
+14. Deep Computer Vision Using Convolutional Neural Networks
+    - The Architecture of the Virtual Cortex
+    - Convolutional Layers
+    - Pooling Layers
+    - CNN Arcitectures
+    - Implementing a ResNet-34 CNN Using Keras
+    - Using Pretrained Models from Keras
+    - Pretrained Models for Transfer Learning
+    - Classification and Localization
+    - Object Detection
+    - Semantic Segmentation
+
+Notebook:
+        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/14_Deep_Computer_Vision_Using_Convolutional_Neural_Networks.ipynb)

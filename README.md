@@ -105,7 +105,7 @@
     - Boosting
     - Stacking
 
-        Notebook:
+Notebook:
         - [Ensemble Learning and Random Forests](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/07-Ensemble_Models.ipynb)
 <br />
 <br />
@@ -113,7 +113,7 @@
 8. Dimensionality Reduction
     - The Curse of Dimensionality
 
-        Notebook:
+Notebook:
         - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/08-Dimensionality_Reduction.ipynb)
 <br />
 <br />
@@ -122,7 +122,7 @@
     - Clustering
     - Gaussian Mixtures
 
-        Notebook:
+Notebook:
         - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/09-Unsupervised_Learning_Techniques.ipynb)
 <br />
 <br />
@@ -143,7 +143,7 @@
     - Faster Optimizers
     - Avoiding Overfitting Through Regularization
 
-        Notebook:
+Notebook:
         - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/11-Training_Deep_Neural_Networks.ipynb)
 <br />
 <br />
@@ -154,8 +154,8 @@
     - Customizing Models and Training Algorithms
     - TensorFlow Functions and Graphs
 
-        Notebook:
-        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/12-Custom_Models_and_TF.ipynb)
+Notebook:
+        - [Custom Models and Training with TensorFlow](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/12-Custom_Models_and_TF.ipynb)
 <br />
 <br />
 <br />
@@ -165,8 +165,8 @@
     - Preprocessing the TF Transform
     - TensorFlow Dataset (TFDS) Project
 
-        Notebook:
-        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/13-Loading_and_Prepocessing_Data_with_TF.ipynb)
+Notebook:
+        - [Loading and Prepocessing Data with TensorFlow](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/13-Loading_and_Prepocessing_Data_with_TF.ipynb)
 <br />
 <br />
 <br />
@@ -183,4 +183,17 @@
     - Semantic Segmentation
 
 Notebook:
-        - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/14_Deep_Computer_Vision_Using_Convolutional_Neural_Networks.ipynb)
+        - [Deep Computer Vision Using Convolutional Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/14_Deep_Computer_Vision_Using_Convolutional_Neural_Networks.ipynb)
+
+        <br />
+<br />
+<br />
+15. Processing Sequences Using RNNs and CNNs
+    - Recurrent Neurons and Layers
+    - Training RNNs
+    - Forecasting a Time Series
+    - Handling Long Sequences
+
+
+Notebook:
+        - [Processing Sequences Using RNNs and CNNs](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/15_Processing_Sequences_Using_RNNs_and_CNNs.ipynb)

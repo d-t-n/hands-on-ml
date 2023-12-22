@@ -194,6 +194,5 @@ Notebook:
     - Forecasting a Time Series
     - Handling Long Sequences
 
-
 Notebook:
         - [Processing Sequences Using RNNs and CNNs](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/15_Processing_Sequences_Using_RNNs_and_CNNs.ipynb)

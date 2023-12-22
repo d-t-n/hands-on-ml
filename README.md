@@ -185,7 +185,7 @@ Notebook:
 Notebook:
         - [Deep Computer Vision Using Convolutional Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/14_Deep_Computer_Vision_Using_Convolutional_Neural_Networks.ipynb)
 
-        <br />
+<br />
 <br />
 <br />
 15. Processing Sequences Using RNNs and CNNs

@@ -23,7 +23,7 @@
     - Hyperparameter Tuning and Model Selection
     - Data Mismatch
 
-        Notebook:
+Notebook:
         - [The Machine Learning Landscape](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/01-The_ML_Landscape.ipynb)
 <br />
 <br />
@@ -38,7 +38,7 @@
     - Present your solution
     - Launch, monitor, and maintain your system
 
-        Notebook:
+Notebook:
         - [End-to-end Machine Learnng Project](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/02-End_to_End_Machine_Learning_Project-.ipynb)
 <br />
 <br />
@@ -52,7 +52,7 @@
     - Multilabel Classification
     - Multioutput Classification
 
-        Notebook:
+Notebook:
         - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/03-Classification.ipynb)
 <br />
 <br />
@@ -65,7 +65,7 @@
     - Regularized Linear Models
     - Logistic Regression
 
-        Notebook:
+Notebook:
         - [Training Models](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
 <br />
 <br />
@@ -76,7 +76,7 @@
     - SVM Regression
     - Under the Hood
 
-        Notebook:
+Notebook:
         - [Support Vector Machines](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/05-Support_Vector_Machines.ipynb)
 <br />
 <br />
@@ -92,7 +92,7 @@
     - Regression
     - Instability
 
-        Notebook:
+Notebook:
         - [Decision Trees](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/06-Decision_Trees.ipynb)
 <br />
 <br />

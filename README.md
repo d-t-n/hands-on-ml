@@ -23,13 +23,13 @@
     - Hyperparameter Tuning and Model Selection
     - Data Mismatch
 
-Notebook:
+    Notebook:
         - [The Machine Learning Landscape](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/01-The_ML_Landscape.ipynb)
 <br />
 <br />
 <br /> 
-2. End-to-end Machine Learnng Project
-    - Look at the big picture
+2. End-to-end Machine Learnng Project:
+    * Look at the big picture
     - Get the data
     - Discover and visualize the data to gain insights
     - Prepare the data for Machine Learning algorithms
@@ -38,13 +38,13 @@ Notebook:
     - Present your solution
     - Launch, monitor, and maintain your system
 
-Notebook:
+    Notebook:
         - [End-to-end Machine Learnng Project](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/02-End_to_End_Machine_Learning_Project-.ipynb)
 <br />
 <br />
 <br />
 3. Classification
-    - MNIST
+    * MNIST
     - Training a Binary Classifier
     - Performance Measures
     - Multiclass Classification
@@ -52,7 +52,7 @@ Notebook:
     - Multilabel Classification
     - Multioutput Classification
 
-Notebook:
+    Notebook:
         - [Classification](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/03-Classification.ipynb)
 <br />
 <br />
@@ -65,7 +65,7 @@ Notebook:
     - Regularized Linear Models
     - Logistic Regression
 
-Notebook:
+    Notebook:
         - [Training Models](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/04-Training_Models.ipynb)
 <br />
 <br />
@@ -76,7 +76,7 @@ Notebook:
     - SVM Regression
     - Under the Hood
 
-Notebook:
+    Notebook:
         - [Support Vector Machines](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/05-Support_Vector_Machines.ipynb)
 <br />
 <br />
@@ -92,7 +92,7 @@ Notebook:
     - Regression
     - Instability
 
-Notebook:
+    Notebook:
         - [Decision Trees](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/06-Decision_Trees.ipynb)
 <br />
 <br />
@@ -105,7 +105,7 @@ Notebook:
     - Boosting
     - Stacking
 
-Notebook:
+    Notebook:
         - [Ensemble Learning and Random Forests](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/07-Ensemble_Models.ipynb)
 <br />
 <br />
@@ -113,7 +113,7 @@ Notebook:
 8. Dimensionality Reduction
     - The Curse of Dimensionality
 
-Notebook:
+    Notebook:
         - [Dimensionality Reduction](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/08-Dimensionality_Reduction.ipynb)
 <br />
 <br />
@@ -122,7 +122,7 @@ Notebook:
     - Clustering
     - Gaussian Mixtures
 
-Notebook:
+    Notebook:
         - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/09-Unsupervised_Learning_Techniques.ipynb)
 <br />
 <br />
@@ -132,7 +132,7 @@ Notebook:
     - Implementing MLPs with Keras
     - Fine-Tuning Neural Network Hyperparameters
 
-        Notebook:
+    Notebook:
         - [Unsupervised Learning Techniques](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/10-Introduction_to_Artificial_Neural_Networks.ipynb)
 <br />
 <br />
@@ -143,7 +143,7 @@ Notebook:
     - Faster Optimizers
     - Avoiding Overfitting Through Regularization
 
-Notebook:
+    Notebook:
         - [Training Deep Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/11-Training_Deep_Neural_Networks.ipynb)
 <br />
 <br />
@@ -154,7 +154,7 @@ Notebook:
     - Customizing Models and Training Algorithms
     - TensorFlow Functions and Graphs
 
-Notebook:
+    Notebook:
         - [Custom Models and Training with TensorFlow](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/12-Custom_Models_and_TF.ipynb)
 <br />
 <br />
@@ -165,7 +165,7 @@ Notebook:
     - Preprocessing the TF Transform
     - TensorFlow Dataset (TFDS) Project
 
-Notebook:
+    Notebook:
         - [Loading and Prepocessing Data with TensorFlow](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/13-Loading_and_Prepocessing_Data_with_TF.ipynb)
 <br />
 <br />
@@ -182,9 +182,8 @@ Notebook:
     - Object Detection
     - Semantic Segmentation
 
-Notebook:
+    Notebook:
         - [Deep Computer Vision Using Convolutional Neural Networks](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/14_Deep_Computer_Vision_Using_Convolutional_Neural_Networks.ipynb)
-
 <br />
 <br />
 <br />
@@ -194,5 +193,5 @@ Notebook:
     - Forecasting a Time Series
     - Handling Long Sequences
 
-Notebook:
+    Notebook:
         - [Processing Sequences Using RNNs and CNNs](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/15_Processing_Sequences_Using_RNNs_and_CNNs.ipynb)

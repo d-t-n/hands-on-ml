@@ -195,3 +195,16 @@
 
     Notebook:
         - [Processing Sequences Using RNNs and CNNs](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/15_Processing_Sequences_Using_RNNs_and_CNNs.ipynb)
+<br />
+<br />
+<br />
+16. Natural Language Processing with RNNs and Attention
+    - Generating Shakespearean Text Using a Character RNN
+    - Sentiment Analysis
+    - An Encoder–Decoder Network for Neural Machine Translation
+    - Attention Mechanisms
+    - Recent Innovations in Language Models
+
+    Notebook:
+        - [Natural Language Processing with RNNs and Attention](https://nbviewer.jupyter.org/github/d-t-n/d-t-n/blob/master/16_Natural_Language_Processing_with_RNNs_and_Attention.ipynb)
+
